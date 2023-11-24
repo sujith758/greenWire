@@ -1,4 +1,5 @@
 # Project Name: greenWire
+[Image Description](./green-wire/src/Assets/Welcome.png)
 
 Brief description of the project.
 
