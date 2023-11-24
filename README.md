@@ -1,5 +1,8 @@
 # Project Name: greenWire
 
+<img width="2000px" src="./green-wire/src/Assets/Welcome.png" alt="welcome" />
+
+
 Brief description of the project.
 
 ## Table of Contents
