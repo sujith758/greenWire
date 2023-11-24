@@ -35,10 +35,10 @@ List any software, libraries, or other dependencies that users need to have inst
 
 How to install project locally...
 
-Open git bash
-git clone https://github.com/sujith758/greenWire.git
-cd greenWire
-npm install
+Open git bash /n
+git clone https://github.com/sujith758/greenWire.git /n
+cd greenWire /n
+npm install /n
  
 # Commiting the code
 before pushing code to remote repository ensure you are checkout to dev branch. 
