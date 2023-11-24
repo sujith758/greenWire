@@ -24,6 +24,7 @@ Yet to decide.
 ## Getting Started
 
 To start coding and contributing to the project, clone it and checkout to dev branch. 
+
 Install node modules locally by "npm install".
 
 ### Prerequisites
