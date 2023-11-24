@@ -41,11 +41,11 @@ How to install project locally...
 
 1. Open git bash
 
-2. git clone https://github.com/sujith758/greenWire.git /n
+2. git clone https://github.com/sujith758/greenWire.git
 
-3. cd greenWire /n
+3. cd greenWire
 
-4. npm install /n
+4. npm install
 
 # Commiting the code
 
